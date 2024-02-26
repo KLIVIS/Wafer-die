@@ -1,2 +1,0 @@
-# Wafers
-Wafers Dataset
